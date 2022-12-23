@@ -1,1 +1,80 @@
+body{
+    background-color: #c49dc4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-1{
+    background-image: url(images/house.png);
+    width: 208px;
+    height: 387px;
+    background-repeat: no-repeat;
+    border: 2px solid white;
+    border-radius: 10px;
+
+}
+.div-2{
+    background-color: white;
+    width: 212px;
+    height: 57px;
+    margin-top: 331px;
+    border-radius: 0px 0px 10px 10px;
+    margin-left: -2px;
+}
+
+.fig{
+    margin-top: -51px;
+    margin-left: 14px;
+}
+.fig-1{
+    margin-top: -56px;
+    margin-left: 66px;
+}
+   
+
+.fig-2{
+    margin-left: 112px;
+    margin-top: -57px;
+}
+.fig-3{
+    margin-left: 197px;
+    margin-top: -58px;
+}
+
+.figcap{
+    font-size: x-small;
+    color: gray;
+    text-decoration: none;
+}
+.figcap-1{
+    font-size: x-small;
+    color: gray;
+    text-decoration: none;
+}
+.figcap-2{
+    font-size: x-small;
+    color: gray;
+    margin-top: -3px;
+    margin-left: 5px;
+}
+.figcap-3{
+    font-size: x-small;
+    color: gray;
+    margin-left: -39px;
+}
+.img{
+    width: 23px;
+    height: 24px;
+    margin-top: 6px;
+}
+
+.img-2{
+    width: 30px;
+    height: 31px;
+    margin-top: -2px;
+}
+.img-3{
+    margin-left: -34px;
+    height: 26px;
+}
 
